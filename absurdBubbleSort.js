@@ -57,6 +57,6 @@ arr1 = [2,3,1,9,3,10,6];
 //innerBubbleSortLoop(arr1, 0, false, outerBubbleSortLoop);
 
 absurdBubbleSort([3, 2, 1], function(arr) {
-    console.log("Sorted ß array: " + JSON.stringify(arr));
+    console.log("Sorted ßß array: " + JSON.stringify(arr));
     reader.close();
   });
